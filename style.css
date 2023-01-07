@@ -1,0 +1,107 @@
+.part-a{
+    border: 2px solid #000000;
+    height: 348.5709228515625px;
+    width: 1643px;
+    left: 38px;
+    top: 47px;
+    border-radius: 0px;
+
+}
+.headline{
+    /* position: absolute; */
+    width: 1540.51px;
+    height: 613.54px;
+    left: 89px;
+    top: 94.46px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    text-decoration-line: underline;
+
+    color: #000000;
+    box-sizing: border-box;
+
+    /* position: absolute; */
+    
+    }
+
+.content {
+    position: absolute;
+    width: 1540.51px;
+    height: 613.54px;
+    left: 89px;
+    top: 94.46px;
+    
+
+}
+
+.part-b {
+    position: relative;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+.part-b img{
+    position: relative;
+    position: absolute;
+    width: 1051px;
+    height: 762px;
+    left: 58px;
+    top: 100px;
+    
+
+}
+
+.part-b .more-img{
+    
+    position: relative;
+    width: 245px;
+    height: 48px;
+    left: 58px;
+    top: 770px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-decoration-line: underline;
+
+    color: #000000;
+}
+
+.part-c .triv-headline{
+    position: relative;
+    width: 1623px;
+    height: 469px;
+    left: 58px;
+    top: 795px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    text-decoration-line: underline;
+    color: #000000;
+}
+.part-c .list ol {
+    list-style-type: decimal;
+    position: relative;
+    width: 1623px;
+    height: 469px;
+    left: 58px;
+    top: 400px;
+    color: #000000;
+    
+}
